@@ -1,2 +1,3 @@
 # Hospital-Discharge-Analysis
-To analyze data, build predictive models, and generate insights that  help in better decision-making, optimization, and problem solving  using data. 
+# To analyze data, build predictive models, and generate insights that  help in better decision-making, optimization, and problem solving  using data. 
+Analyzed hospital discharge data to uncover trends in patient admissions, discharge outcomes, and healthcare resource utilization. Conducted data cleaning, exploratory data analysis (EDA), and visualization to identify key factors affecting patient recovery and length of stay. Applied machine learning techniques to predict discharge-related outcomes and generated insights that could support hospital administrators in improving patient care and operational efficiency.
